@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.topbar-nav{
+
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(211, 211, 230);
+   
+    
+}
+
+.content{
+     width: 100%; 
+}
+
+p span{
+    margin:10px;
+    padding: 20px;
+}
+
+.logo1{
+    background-color:rgb(38, 35, 68);
+    text-align: left;
+    padding: 1px;
+}
+.topbar{
+    display: flex;
+     background-color: lightslategrey;
+   
+   
+   }
+
+.orange{
+    background-color: orange;
+    text-align: center;
+    margin-top: 10px;
+    padding: 0.8em;
+    font-size: 15pt;
+    font-weight: bold;
+    color: white;
+    
+}
+#foto {
+    display: flex;
+    justify-content: space-between;
+   
+    width: 100%;
+    height: 300px;
+   
+    
+  
+}
+.radieu{
+    border-radius: 15px;
+}
+
+
+.image-bg {
+    background-image: url("assets/bg-image.png");
+    width: 100%;
+    height: 100px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 10pt;
+    text-align: center;
+    color: white;
+}
+
+.strong {
+
+    font-size: 20pt;
+}
+
+#foto1 {
+    margin-top: 20px;
+
+}
+
+#foto2 {
+    margin-top: 20px;
+}
+
+.play {
+    text-align: center;
+    font-weight: bold;
+}
+
+.link{
+    background-color:dimgray;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+    color: white;
+}
+.logo{
+    text-align: center;
+    background-color: rgb(173, 172, 172);
+}
+.phase{
+    text-align: left;
+    font-weight: bold;
+    margin-left: 20px;
+ 
+}
+
+
+
