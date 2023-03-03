@@ -1,0 +1,66 @@
+.container div {
+
+  width: 120px;
+  height: 120px;
+
+}
+
+.red-square {
+  background-color: #f0002c;
+  width: 120px;
+  height: 120px;
+
+  margin: 10px;
+  position: absolute;
+  left: 0;
+  top: 0;
+
+}
+
+.pink-square {
+  background-color: #e0abd8;
+  width: 120px;
+  height: 120px;
+
+  margin: 10px;
+  position: absolute;
+  left: 0;
+  bottom: 500px;
+
+}
+
+.yellow-square {
+  background-color: #f0c800;
+  width: 120px;
+  height: 120px;
+
+  margin: 10px;
+  position: absolute;
+  left: 0;
+  bottom: 400px;
+
+}
+
+.green-square {
+  background-color: #32a852;
+  width: 120px;
+  height: 120px;
+
+  margin: 10px;
+  position: absolute;
+  left: 0;
+  bottom: 300px;
+
+}
+
+.blue-square {
+  background-color: #0486d6;
+  width: 120px;
+  height: 120px;
+
+  margin: 10px;
+  position: absolute;
+  left: 0;
+  bottom: 200px;
+
+}
